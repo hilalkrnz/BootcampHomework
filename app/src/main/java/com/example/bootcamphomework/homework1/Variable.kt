@@ -1,0 +1,50 @@
+package com.example.bootcamphomework.homework1
+
+fun main() {
+    var city: String = "Gaziantep"
+    var country: String = "Türkiye"
+    var phoneNumber: Int = 54100000
+    val postCode: Int = 34000
+    var email: String = "hilalkurnaz3344@gmail.com"
+    var job: String = "Android Developer"
+    var stockAmount: Int = 100
+    var customerName: String = "Hilal Kurnaz"
+    var balance: Float = 1009.2F
+    var birthday: String = "18 October"
+    var wage: Int = 10000
+    var maritalStatus: String = "Single"
+    var productReview: String = "Good"
+    val paymentDate: String = "3 January 2022"
+    var payment: String = "Cash"
+    var totalOrders: Int = 100
+    var carModel: String = "Volvo XC90"
+    var bookName: String = "Dune"
+    val releaseDate = "1965"
+    var discountAmount = 25.00
+    var numberOfRooms = 3
+    var latitude = 19
+    var longitude = 16
+    var productName = "Macbook Pro"
+    var mealPrice = 69.99F
+    var brand = "Apple"
+    var musicName = "Feel Invincible"
+    var videoTime = 1.29
+    var productRating = 4.6F
+    var pictureName = "The Starry Nights"
+    var fileFormat = ".jpg"
+    var color = "Green"
+    val colorCode = "#964B00"
+    var phoneModel = "Iphone 13"
+    var screenSize = 6.06F //Inch
+    val weight = 73.4F
+    var nationalDay = "October 29 Republic Day"
+    var holiday = "Sunday"
+    var reservationDate = "May 2023"
+    var streetName = "Istiklal Street"
+    var busLine = "99A"
+    var remainingMinutes = 9
+    var trackingCode = 982346
+    var couponTime = "3 Day"
+    var couponCode = "Discount25"
+    var billingAddress = "Istanbul"
+}
